@@ -1,4 +1,4 @@
-\# Student Record Management System – Data Structures
+# Student Record Management System – Data Structures
 
 
 
