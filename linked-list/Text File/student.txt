@@ -1,0 +1,125 @@
+Student Id = 1202001
+Name = Chuah Shin Yee
+course = CS
+Phone Number = 793-3933
+
+Student Id = 1303001
+Name = Wong Loong Jie
+course = CS
+Phone Number = 793-3933
+
+
+Student Id = 1202011
+Name = Mah Juin Hong
+course = CN
+Phone Number = 264-2343
+
+Student Id = 1202111
+Name = Matt Damon
+course = CS
+Phone Number = 790-3233
+
+Student Id = 1202002
+Name = Ben Affleck
+course = IA
+Phone Number = 432-4579
+
+Student Id = 1202022
+Name = Apple Tan
+course = CS
+Phone Number = 868-5875
+
+Student Id = 1202111
+Name = Matt Damon
+course = CS
+Phone Number = 790-3233
+
+Student Id = 1303001
+Name = Wong Loong Jie
+course = CS
+Phone Number = 793-3933
+
+Student Id = 1303011
+Name = Khor Jie Shen
+course = IA
+Phone Number = 048-2474
+
+Student Id = 1303111
+Name = Cheah Jing Yik
+course = CT
+Phone Number = 565-7552
+
+Student Id = 1303002
+Name = Salma Hayek
+course = IB
+Phone Number = 790-0000
+
+Student Id = 1303022
+Name = Wong Wen Jie
+course = IA
+Phone Number = 917-3572
+
+Student Id = 1404001
+Name = Wong Jie Ying
+course = CS
+Phone Number = 892-3765
+
+Student Id = 1404011
+Name = Sia Xin Ying
+course = IB
+Phone Number = 344-5446
+
+Student Id = 1404111
+Name = Tan Yu Keat
+course = IA
+Phone Number = 274-0097
+
+Student Id = 1404002
+Name = Ng Hui Li
+course = CT
+Phone Number = 453-2674
+
+Student Id = 1404001
+Name = Wong Jie Ying
+course = CS
+Phone Number = 892-3765
+
+Student Id = 1404001
+Name = Wong Jie Ying
+course = CS
+Phone Number = 892-3765
+
+Student Id = 1404001
+Name = Ying Ying
+course = CS
+Phone Number = 892-3765
+
+Student Id = 1404022
+Name = Tan Yi Qi
+course = CT
+Phone Number = 658-7259
+
+Student Id = 1505001
+Name = Kendrew Lim Yan Zhe
+course = IB
+Phone Number = 693-2367
+
+Student Id = 1505011
+Name = Aedan Loh Yi Cheng
+course = IA
+Phone Number = 521-3879
+
+Student Id = 1505111
+Name = Crystalina Dibble
+course = IA
+Phone Number = 724-4572
+
+Student Id = 1505002
+Name = Tan Hui Min
+course = CN
+Phone Number = 294-6739
+
+Student Id = 1505022
+Name = Ramly Burger
+course = CS
+Phone Number = 532-5839
